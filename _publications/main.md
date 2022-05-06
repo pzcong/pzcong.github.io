@@ -26,7 +26,7 @@ redirect_from:
 ### 2020:
   [4]. **Peizhuang Cong**, Yuchao Zhang, Ye Tian, Wendong Wang, Dan Li. Design of federated routing mechanism in cross-domain scenario[J]. Telecommunications Science (in Chinese,invited paper).
 
-  [3]. **Yuchao Zhang**, Ye Tian, Wendong Wang, Peizhuang Cong, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom’2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference, poster presenter).
+  [3]. Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. IEEE International Conference on Computer Communications (Infocom’2020) Poster. 6-9 July, 2020, Toronto, Canada. (Virtual Conference, poster presenter).
 
 ### 2019:
   [2]. **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. Telecommunications Science, 2019, 35(10): 31-42.(in Chinese, invited paper).
