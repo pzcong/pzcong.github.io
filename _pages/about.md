@@ -12,9 +12,31 @@ I am a PhD student at State Key Laboratory of Networking and Switching Technolog
 Email: congpeizhuang@bupt.edu.cn
 Address: BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
+
+## Recent News
+
+### 2022:
+
+*A&B* was accepted by ***J-SAC***(CCF A&JCR Q1).
+
+*DIT* was accepted by ***IWQoS'22***(CCF B).
+
+### 20211:
+
+*AIR* was accepted by ***IWQoS'21***(CCF B).
+
+*Research on Inter-domain Routing Optimizations* was approved by BUPT Excellent Ph.D. Students Project.
+
+*RLR-M* was accepted by ***CN***(CCF B).
+
+*DND* was accepted by ***TNSM***(JCR Q2).
+
+*RLR* was accepted by ***ICC'21***(CCF C).
+
+
 ### Selected Publications
 
-**Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers[J]. IEEE Journal on Selected Areas in Communications (J-SAC, CCF A, JCR Q1).
+**Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers[J]. IEEE Journal on Selected Areas in Communications (J-SAC, CCF A&JCR Q1).
 
 **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing[C]. IEEE/ACM 30th International Symposium on Quality of Service (IWQoS'22, CCF B).
 
