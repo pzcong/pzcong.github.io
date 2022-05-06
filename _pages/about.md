@@ -13,13 +13,9 @@ Email: congpeizhuang@bupt.edu.cn
 Address: BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 
-## Recent News
-
-### 2022:
+## News
 - *A&B* was accepted by ***J-SAC***(CCF A&JCR Q1).
 - *DIT* was accepted by ***IWQoS'22***(CCF B).
-
-### 2021:
 - *AIR* was accepted by ***IWQoS'21***(CCF B).
 - *FLR* was approved by BUPT Excellent Ph.D. Students Project.
 - *RLR-M* was accepted by ***CN***(CCF B).
