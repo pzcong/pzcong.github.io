@@ -14,9 +14,11 @@ Address: BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 
 ## Recent News
+
 ### 2022:
 - *A&B* was accepted by ***J-SAC***(CCF A&JCR Q1).
 - *DIT* was accepted by ***IWQoS'22***(CCF B).
+
 ### 2021:
 - *AIR* was accepted by ***IWQoS'21***(CCF B).
 - *FLR* was approved by BUPT Excellent Ph.D. Students Project.
@@ -24,11 +26,12 @@ Address: BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 - *DND* was accepted by ***TNSM***(JCR Q2).
 - *RLR* was accepted by ***ICC'21***(CCF C).
 
-## Selected Publications [Full Publications](/publications/)
 
+## Selected Publications
 - **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers. ***J-SAC 2022*** (CCF A, JCR Q1).
 - **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing. ***IWQoS 2022*** (CCF B).
 - Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers. ***IWQoS 2021*** (CCF B).
 - **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks. ***CN 2021*** (CCF B).
 - **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang. DND: Driver Node Detection for Control Message Diffusion in Smart Transportations. ***TNSM 2021*** (JCR Q2).
 - **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks. ***ICC 2021*** (CCF C).
+- [Full Publications](/publications/)
