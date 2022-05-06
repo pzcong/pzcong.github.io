@@ -14,9 +14,14 @@ Address: BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 ### Selected Publications
 
-**Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers[J]. IEEE Journal on Selected Areas in Communications (JSAC).
-**Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing[C]. IEEE/ACM 30th International Symposium on Quality of Service (IWQoS 2022).
-Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers[C]. IEEE/ACM 29th International Symposium on Quality of Service (IWQoS 2021, first student author, oral presenter).
-**Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks[J]. Computer Networks (CN), 2021.
-**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang. DND: Driver Node Detection for Control Message Diffusion in Smart Transportations[J]. IEEE Transactions on Network and Service Management (TNSM), 2021.
-**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C]. 2021 IEEE International Conference on Communications (ICC 2021, oral presenter).
+**Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers[J]. IEEE Journal on Selected Areas in Communications (J-SAC, CCF A, JCR Q1).
+
+**Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing[C]. IEEE/ACM 30th International Symposium on Quality of Service (IWQoS'22, CCF B).
+
+Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu. AIR: An AI-based TCAM Entry Replacement Scheme for Routers[C]. IEEE/ACM 29th International Symposium on Quality of Service (IWQoS'21, CCF B).
+
+**Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks[J]. Computer Networks (CN, CCF B).
+
+**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang. DND: Driver Node Detection for Control Message Diffusion in Smart Transportations[J]. IEEE Transactions on Network and Service Management (TNSM, JCR Q2).
+
+**Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks[C]. 2021 IEEE International Conference on Communications (ICC'21, CCF C).
