@@ -9,7 +9,7 @@ redirect_from:
 ---
 
   I am a PhD student at State Key Laboratory of Networking and Switching Technology supervised by Prof. [Wendong Wang](https://int.bupt.edu.cn/content/content.php?p=6_16_116) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
-  My main research interests include the next generation network architecture, mobile Internet, and NetAI.
+- *Research Interests:* next generation network architecture, NetAI, etc.
 - *Email:* congpeizhuang@bupt.edu.cn
 - *Address:* BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
