@@ -34,4 +34,4 @@ redirect_from:
 - **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li. A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks. ***ICC 2021*** (CCF C).
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a>
