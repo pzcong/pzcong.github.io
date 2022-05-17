@@ -26,29 +26,29 @@ redirect_from:
 
 ## Selected Publications:
 [Full Publications](/publications/)
-- **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
-  A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
-  ***J-SAC***, 2022 (CCF A, JCR Q1).
+- **[J-SAC 2022]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
+  **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
+  IEEE Journal on Selected Areas in Communications (J-SAC), 2022 (CCF A, JCR Q1).
   
-- **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
-  Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
-  ***IWQoS 2022*** (CCF B).
+- **[IWQoS 2022]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
+  **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
+  IEEE/ACM International Symposium on Quality Service (IWQoS), 2022 (CCF B).
   
-- Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu.  
-  AIR: An AI-based TCAM Entry Replacement Scheme for Routers.  
-  ***IWQoS 2021*** (CCF B).
+- **[IWQoS 2021]** AIR: An AI-based TCAM Entry Replacement Scheme for Routers.  
+  Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu.  
+  IEEE/ACM International Symposium on Quality Service (IWQoS), 2021 (CCF B).
   
-- **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
-  A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks.  
-  ***CN***, 2021 (CCF B).
+- **[CN 2021]** A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks.  
+  **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
+  Elsevier Computer Networks (CN), 2021 (CCF B).
   
-- **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang.  
-  DND: Driver Node Detection for Control Message Diffusion in Smart Transportations.  
-  ***TNSM***, 2021 (JCR Q2).
+- **[TNSM 2021]** DND: Driver Node Detection for Control Message Diffusion in Smart Transportations.  
+  **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang.  
+  IEEE Transactions on Network and Service Management (TNSM), 2021 (JCR Q2).
   
-- **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
-  A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks.  
-  ***ICC 2021*** (CCF C).
+- **[ICC 2021]** A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks.  
+  **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
+  IEEE International Conference on Communications (ICC), 2021 (CCF C).
 
 
 
