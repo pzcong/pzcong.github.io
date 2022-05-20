@@ -34,10 +34,6 @@ redirect_from:
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
   IEEE/ACM International Symposium on Quality Service (IWQoS), 2022 (CCF B).
   
-- **[IWQoS 2021]** AIR: An AI-based TCAM Entry Replacement Scheme for Routers.  
-  Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu.  
-  IEEE/ACM International Symposium on Quality Service (IWQoS), 2021 (CCF B).
-  
 - **[CN 2021]** A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks.  
   **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
   Elsevier Computer Networks (CN), 2021 (CCF B).
@@ -45,7 +41,11 @@ redirect_from:
 - **[TNSM 2021]** DND: Driver Node Detection for Control Message Diffusion in Smart Transportations.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang.  
   IEEE Transactions on Network and Service Management (TNSM), 2021 (JCR Q2).
-  
+
+- **[IWQoS 2021]** AIR: An AI-based TCAM Entry Replacement Scheme for Routers.  
+  Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu.  
+  IEEE/ACM International Symposium on Quality Service (IWQoS), 2021 (CCF B).
+
 - **[ICC 2021]** A Deep Reinforcement Learning-based Routing Scheme with Two Modes for Dynamic Networks.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
   IEEE International Conference on Communications (ICC), 2021 (CCF C).
