@@ -8,7 +8,7 @@ redirect_from:
   - /publications.html
 ---
 
-## Publications：
+## Publications:
 ### 2022:
   [10]. **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers [J]. IEEE Journal on Selected Areas in Communications (JSAC). Accepted.
 
