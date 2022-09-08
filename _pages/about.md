@@ -10,7 +10,7 @@ redirect_from:
 
   I am a PhD student in State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT), advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
 - *Research Interests:* next generation network architecture, network protocol, Net-AI, etc.
-- *Email:* congpeizhuang@bupt.edu.cn
+- *Email:* congpeizhuang AT bupt.edu.cn
 - *Address:* BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 
