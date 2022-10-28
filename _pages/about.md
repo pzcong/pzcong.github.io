@@ -20,9 +20,11 @@ redirect_from:
 - *DIT* was accepted by ***IWQoS'22*** (CCF B)
 <details>
   <summary>
-    - I won the **National Scholarship for Doctoral Students of BUPT**.
-    - *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
-    - *DIT* was accepted by ***IWQoS'22*** (CCF B).
+- I won the **National Scholarship for Doctoral Students of BUPT**.
+    
+- *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
+    
+- *DIT* was accepted by ***IWQoS'22*** (CCF B).
   </summary>
   - *AIR* was accepted by ***IWQoS'21*** (CCF B).
   - *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
