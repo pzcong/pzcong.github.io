@@ -17,10 +17,11 @@ redirect_from:
 ## News:
 <details>
   <summary>
-    
+    <pre>
 - [10/2022]**(Award)**: I won the **National Scholarship for Doctoral Students of BUPT**.
 - [05/2022]**(Paper)**: *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
 - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
+    </pre>
   </summary>
 - [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21*** (CCF B).
 - [04/2021]**(PRJ. )**: *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
