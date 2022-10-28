@@ -18,15 +18,15 @@ redirect_from:
 <details>
   <summary>
     
-- I won the **National Scholarship for Doctoral Students of BUPT**.
-- *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
-- *DIT* was accepted by ***IWQoS'22*** (CCF B).
+- [10/2022]**(Award)** I won the **National Scholarship for Doctoral Students of BUPT**.
+- [05/2022]**(Paper)** *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
+- [04/2022]**(Paper)** *DIT* was accepted by ***IWQoS'22*** (CCF B).
   </summary>
-- [10/2022]**(Paper)** *AIR* was accepted by ***IWQoS'21*** (CCF B).
-- *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
-- *RLR-M* was accepted by ***CN*** (CCF B).
-- *DND* was accepted by ***TNSM*** (JCR Q2).
-- *RLR* was accepted by ***ICC'21*** (CCF C).
+- [04/2021]**(Paper)** *AIR* was accepted by ***IWQoS'21*** (CCF B).
+- [04/2021]**(PRJ. )** *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
+- [03/2021]**(Paper)** *RLR-M* was accepted by ***CN*** (CCF B).
+- [02/2021]**(Paper)** *DND* was accepted by ***TNSM*** (JCR Q2).
+- [01/2021]**(Paper)** *RLR* was accepted by ***ICC'21*** (CCF C).
 </details>
 
 
