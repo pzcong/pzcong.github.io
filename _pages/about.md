@@ -22,11 +22,11 @@ redirect_from:
 - *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
 - *DIT* was accepted by ***IWQoS'22*** (CCF B).
   </summary>
-  - *AIR* was accepted by ***IWQoS'21*** (CCF B).
-  - *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
-  - *RLR-M* was accepted by ***CN*** (CCF B).
-  - *DND* was accepted by ***TNSM*** (JCR Q2).
-  - *RLR* was accepted by ***ICC'21*** (CCF C).
+- [10/2022]**(Paper)** *AIR* was accepted by ***IWQoS'21*** (CCF B).
+- *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
+- *RLR-M* was accepted by ***CN*** (CCF B).
+- *DND* was accepted by ***TNSM*** (JCR Q2).
+- *RLR* was accepted by ***ICC'21*** (CCF C).
 </details>
 
 
