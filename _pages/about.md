@@ -15,14 +15,20 @@ redirect_from:
 
 
 ## News:
-- I won the **National Scholarship for Doctoral Students of BUPT**.
-- *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
-- *DIT* was accepted by ***IWQoS'22*** (CCF B).
-- *AIR* was accepted by ***IWQoS'21*** (CCF B).
-- *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
-- *RLR-M* was accepted by ***CN*** (CCF B).
-- *DND* was accepted by ***TNSM*** (JCR Q2).
-- *RLR* was accepted by ***ICC'21*** (CCF C).
+<details>
+  <summary>
+    - I won the **National Scholarship for Doctoral Students of BUPT**.
+    - *A&B* was accepted by ***J-SAC*** (CCF A, JCR Q1).
+    - *DIT* was accepted by ***IWQoS'22*** (CCF B).
+  </summary>
+  - *AIR* was accepted by ***IWQoS'21*** (CCF B).
+  - *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
+  - *RLR-M* was accepted by ***CN*** (CCF B).
+  - *DND* was accepted by ***TNSM*** (JCR Q2).
+  - *RLR* was accepted by ***ICC'21*** (CCF C).
+</details>
+
+
 
 
 ## Selected Publications:
