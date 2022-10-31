@@ -24,7 +24,8 @@ redirect_from:
   - New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
   
 ## Awards:
-  - National Scholarship for Doctoral Student (2022).
-  - BUPT Excellent Ph.D. Students Foundation (2021).
+  - National Scholarship for Doctoral Student.
+  - BUPT Excellent Ph.D. Students Foundation.
+  - The First Prize Scholarship of BUPT.
   - Excellent Graduate Student, BUPT (2020, 2021).
   - Excellent Graduate Student of State Key Lab of N&S Technology (2019, 2020, 2021).
