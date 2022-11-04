@@ -12,15 +12,15 @@ redirect_from:
 ## Projects:
   - *BUPT Excellent Ph.D. Students Project:* Research on Inter-domain Routing Optimizations (Apr. 2021-Apr. 2023, PI).
 
-## Professional Services:
+## Acdaemic Services:
   - **Journal Reviewer:** 
       - [Applied Intelligence](https://www.springer.com/journal/10489/) (2022).
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083) (2022).
 
-## Internship Experience:
+## Internship Experiences:
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul. 2019-Sep. 2019.
 
-## Teaching Assistant:
+## Teaching Experiences:
   - New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
   
 ## Awards:
