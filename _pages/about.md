@@ -57,4 +57,4 @@ redirect_from:
 
 <p align='right'><a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a></p>
 
-<p align='right'><font size="1", color="gray"><i>Last updated Nov. 1, 2022</i></font></p>
+**<p align='right'><font size="1", color="red"><i>Last updated Nov. 1, 2022</i></font></p>
