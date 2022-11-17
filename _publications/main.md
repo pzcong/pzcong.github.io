@@ -39,4 +39,4 @@ redirect_from:
   [1]. 张宇超; 丛培壮; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法, 已授权.
   
 ## IETF Draft:
-  [1]. Haiyang Jiang, **Peizhuang Cong**, Lei Wang, Yuchao Zhang, Wendong Wang. Desensitize Intra-domain Information for Inter-domain Routing.
+  [1]. Haiyang Jiang, **Peizhuang Cong**, Lei Wang, Yuchao Zhang, Wendong Wang. Desensitize Intra-domain Information for Inter-domain Routing. (Ppaer version *Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing* was published in IWQoS'22)
