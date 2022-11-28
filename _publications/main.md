@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications:
 ### 2022:
-  [11]. Yuchao Zhang, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. Web 3.0: Developments and Directions of the Future Internet Architecture? [C]. International Conference on Web Services (ICWS 2022)(^equal contribution). 
+  [11]. Yuchao Zhang, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. Web 3.0: Developments and Directions of the Future Internet Architecture? [C]. International Conference on Web Services (ICWS 2022) (^equal contribution). 
 
   [10]. **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers [J]. IEEE Journal on Selected Areas in Communications (JSAC). 
 
