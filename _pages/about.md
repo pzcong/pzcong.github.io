@@ -39,7 +39,7 @@ redirect_from:
   
 - **[CN 2021]** A Deep Reinforcement Learning-based Multi-Optimality Routing Scheme for Dynamic IoT Networks.  
   **Peizhuang Cong**, Yuchao Zhang, Zheli Liu, Thar Baker, Hissam Tawfik, Wendong Wang, Ke Xu, Ruidong Li, Fuliang Li.  
-  Elsevier Computer Networks (CN), 2021 (CCF B).
+  Computer Networks (CN), Elsevier, 2021 (CCF B).
   
 - **[TNSM 2021]** DND: Driver Node Detection for Control Message Diffusion in Smart Transportations.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang.  
