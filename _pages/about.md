@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## News:
+- [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**.
 - [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).
 - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
@@ -33,6 +34,10 @@ redirect_from:
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
   IEEE Journal on Selected Areas in Communications (J-SAC), 2022 (CCF A, JCR Q1).
   
+- **[IEEE Network 2023]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
+  **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
+  IEEE Network Magazine, 2023 (JCR Q1).
+
 - **[IWQoS 2022]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
   IEEE/ACM International Symposium on Quality Service (IWQoS), 2022 (CCF B).
