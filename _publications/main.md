@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 ## Publications:
+### 2023:
+  [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning [J]. IEEE Network, 2023. 
+
 ### 2022:
   [11]. Yuchao Zhang, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. Web 3.0: Developments and Directions of the Future Internet Architecture? [C]. International Conference on Web Services (ICWS 2022) (^equal contribution). 
 
