@@ -34,7 +34,7 @@ redirect_from:
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
   IEEE Journal on Selected Areas in Communications (J-SAC), 2022 (CCF A, JCR Q1).
   
-- **[NET-M 2023]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
+- **[NET-M 2023]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
   IEEE Network Magazine, 2023 (JCR Q1).
 
