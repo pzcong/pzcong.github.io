@@ -10,12 +10,12 @@ redirect_from:
 
 ## Publications:
 ### 2023:
-  [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning [J]. IEEE Network, 2023. 
+  [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning[J]. IEEE Network, 2023. 
 
 ### 2022:
-  [11]. Yuchao Zhang, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. Web 3.0: Developments and Directions of the Future Internet Architecture? [C]. International Conference on Web Services (ICWS 2022) (^equal contribution). 
+  [11]. Yuchao Zhang, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. Web 3.0: Developments and Directions of the Future Internet Architecture?[C]. International Conference on Web Services (ICWS 2022) (^equal contribution). 
 
-  [10]. **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers [J]. IEEE Journal on Selected Areas in Communications (JSAC), 2022. 
+  [10]. **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers[J]. IEEE Journal on Selected Areas in Communications (JSAC), 2022. 
 
   [9]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang,  Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing[C]. IEEE/ACM 30th International Symposium on Quality of Service (IWQoS 2022, oral presenter). 
 
@@ -42,4 +42,4 @@ redirect_from:
   [1]. 张宇超; 丛培壮; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法, 已授权.
   
 ## IETF Draft:
-  [1]. Yuchao Zhang, **Peizhuang Cong**, Haiyang Jiang, Lei Wang, Wendong Wang. Desensitize Intra-domain Information for Inter-domain Routing.
+  [1]. Yuchao Zhang, **Peizhuang Cong**, Haiyang Jiang, Lei Wang, Wendong Wang. Desensitize Intra-domain Information for Inter-domain Routing.[[link]](https://datatracker.ietf.org/doc/draft-yuchaozhang-i2bgp/)
