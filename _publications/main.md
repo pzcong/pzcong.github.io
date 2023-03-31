@@ -10,6 +10,9 @@ redirect_from:
 
 ## Publications:
 ### 2023:
+  [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Grandet: cost-aware traffic scheduling without prior knowledge
+  in SD-WAN[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. [[PDF]](https://pzcong.github.io/)
+
   [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning[J]. *IEEE Network*, 2023.  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10061640/)
 
 ### 2022:
