@@ -17,7 +17,7 @@ redirect_from:
 ## News:
 - [03/2023]**(Paper)**: *Grandet* was accepted by ***IWQoS'23*** (CCF B).
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
-<details>
+  <details>
   <summary>
     2022
   </summary>
@@ -28,7 +28,7 @@ redirect_from:
   
 - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
 
-</details>
+  </details>
   
 <details>
   <summary>
