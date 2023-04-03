@@ -22,11 +22,11 @@ redirect_from:
     2022
   </summary>
   
-- [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**.
+  - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**.
   
-- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).
+  - [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).
   
-- [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
+  - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
 
   </details>
   
