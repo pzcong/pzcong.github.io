@@ -8,53 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-  I am a PhD student in State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT), advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
+  I am a PhD candidate in State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT), advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
 - *Research Interests:* next generation network architecture, network protocol, Net-AI, etc.
 - *Email:* congpeizhuang AT bupt.edu.cn
 - *Address:* BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 
-## News:
- <details>
-  <summary>
-    2023
-  </summary>
- </details>
- 
+## News: 
 - [03/2023]**(Paper)**: *Grandet* was accepted by ***IWQoS'23*** (CCF B).
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
-
- <details>
-  <summary>
-    2022
-  </summary>
-  
- - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**.
-  
- - [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).
-  
- - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
-
-</details>
-  
-<details>
-  <summary>
-    2021
-  </summary>
-
+- [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
+- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).  
+- [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
 - [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21*** (CCF B).
-
 - [04/2021]**(PRJ. )**: *FLR* was approved by ***BUPT Excellent Ph.D. Student Foundation***.
-
 - [03/2021]**(Paper)**: *RLR-M* was accepted by ***CN*** (CCF B).
-
 - [02/2021]**(Paper)**: *DND* was accepted by ***TNSM*** (JCR Q2).
-
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21*** (CCF C).
-
-</details>
-
-
 
 
 ## Selected Publications: ([Full Publications](/publications/))
