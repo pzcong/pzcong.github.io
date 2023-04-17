@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [03/2023]**(Paper)**: *Grandet* was accepted by ***IWQoS'23*** (CCF B).
+- [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
 - [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).  
