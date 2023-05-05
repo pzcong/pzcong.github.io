@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## News: 
+- [04/2023]**(Award)**: I was awarded the **Outstanding Graduate of Beijing**.
 - [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
