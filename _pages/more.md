@@ -24,7 +24,8 @@ redirect_from:
   - New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
   
 ## Awards:
-  - The Outstanding Graduate of Beijing.
+  - Outstanding Graduate of Beijing.
+  - Outstanding Graduate of BUPT.
   - National Scholarship for Doctoral Student.
   - BUPT Excellent Ph.D. Students Foundation.
   - The First Prize Scholarship of BUPT.
