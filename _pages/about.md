@@ -32,7 +32,7 @@ redirect_from:
 ## Selected Publications: ([Full Publications](/publications/))
 - **[JSAC 2022]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
-  IEEE Journal on Selected Areas in Communications (J-SAC), 2022 (CCF A, JCR Q1).
+  IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
   
 - **[NET-M 2023]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
