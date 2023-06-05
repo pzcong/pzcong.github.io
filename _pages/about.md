@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [06/2023]**(Degree)**: I successfully defended my Ph.D. thesis👨🏻‍🎓.
+- [06/2023]**(Degree)**: I defended my Ph.D. thesis👨🏻‍🎓.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of BUPT**.
 - [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
