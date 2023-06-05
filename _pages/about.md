@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
+- [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**🎉.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of BUPT**.
 - [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
