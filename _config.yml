@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peizhuang Cong"
 title_separator          : "-"
 name                     : &name "Peizhuang Cong"
-description              : &description "PhD Candidate at BUPT"
+description              : &description "" # "PhD Candidate at BUPT"
 url                      : https://pzcong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "congpeizhuang/pzcong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peizhuang Cong"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at BUPT"
+  bio              : "" # "PhD Candidate at BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
