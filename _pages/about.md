@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-  I received my PhD from State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT). I was advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
+  I received my PhD from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/index.htm). I was advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
 - *Research Interests:* next generation network architecture, network protocol, Net-AI, etc.
 - *Email:* congpeizhuang AT bupt.edu.cn
 - *Address:* BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
 
 
 ## News: 
-- [06/2023]**(Degree)**: I defended my Ph.D. thesis👨🏻‍🎓.
+- [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of BUPT**.
 - [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
