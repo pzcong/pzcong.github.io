@@ -10,6 +10,8 @@ redirect_from:
 
 ## Publications:
 ### 2023:
+  [13]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT[J]. *IEEE Internet of Things Journal (IOTJ)*, 2023. [[PDF]](https://pzcong.github.io/)
+  
   [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. Grandet: cost-aware traffic scheduling without prior knowledge
   in SD-WAN[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. [[PDF]](https://pzcong.github.io/)
 
