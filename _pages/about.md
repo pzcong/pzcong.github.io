@@ -37,7 +37,7 @@ redirect_from:
   IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
   
 - **[IOTJ 2023]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
-  **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.
+  **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
   IEEE Internet of Things Journal (IOTJ), 2023 (JCR Q1).
   
 - **[NET-M 2023]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
