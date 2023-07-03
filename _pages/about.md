@@ -35,12 +35,14 @@ redirect_from:
 - **[JSAC 2022]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
   IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
+  
 - **[IOTJ 2023]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.
-  IEEE Internet of Things Journal(IOTJ), 2023 (JCR Q1).
+  IEEE Internet of Things Journal (IOTJ), 2023 (JCR Q1).
+  
 - **[NET-M 2023]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
-  IEEE Network Magazine, 2023 (JCR Q1).
+  IEEE Network, 2023 (JCR Q1).
 
 - **[IWQoS 2022]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
