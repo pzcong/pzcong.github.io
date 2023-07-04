@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [07/2023]**(Paper)**: *M-DIT* was accepted by ***IOTJ*** (JCR Q1). 
+- [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ*** (JCR Q1). 
 - [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of BUPT**.
@@ -38,7 +38,7 @@ redirect_from:
   
 - **[IOTJ 2023]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
-  IEEE Internet of Things Journal (IOTJ), 2023 (JCR Q1).
+  IEEE Internet of Things Journal (IoTJ), 2023 (JCR Q1).
   
 - **[NET-M 2023]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
