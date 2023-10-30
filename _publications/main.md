@@ -39,7 +39,7 @@ redirect_from:
   [3]. Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. *IEEE International Conference on Computer Communications (INFOCOM’2020) Poster*. 6-9 July, 2020, Toronto, Canada. (Virtual Conference). [[PDF]](https://ieeexplore.ieee.org/abstract/document/9162750/)
 
 ### 2019:
-  [2]. **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. *Telecommunications Science*, 2019, 35(10): 31-42.(in Chinese). [[PDF]](http://www.infocomm-journal.com/dxkx/CN/Y2019/V35/I10/31)
+  [2]. **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. *Telecommunications Science*, 2019, 35(10): 31-42.(in Chinese). **Journal Top5 Popular Article** [[PDF]](http://www.infocomm-journal.com/dxkx/CN/Y2019/V35/I10/31)
 
   [1]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. *2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop*. 9-13 December, Waikoloa, HI, USA. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9024562/)
 
