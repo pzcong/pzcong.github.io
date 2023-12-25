@@ -13,7 +13,7 @@ redirect_from:
   [14]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT[J]. *IEEE Internet of Things Journal (IoTJ)*, 2023. [[PDF]](https://pzcong.github.io/)
   
   [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. Grandet: cost-aware traffic scheduling without prior knowledge
-  in SD-WAN[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. **Best Paper Finalist** [[PDF]](https://pzcong.github.io/)
+  in SD-WAN[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. **Best Paper Candidate**(top 7 out of 264 submissions)  [[PDF]](https://pzcong.github.io/)
 
   [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning[J]. *IEEE Network*, 2023.  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10061640/)
 
@@ -39,7 +39,7 @@ redirect_from:
   [3]. Yuchao Zhang, Ye Tian, Wendong Wang, **Peizhuang Cong**, Chao Chen, Dan Li, Ke Xu. Federated Routing Scheme for Large-scale Domain Network[C]. *IEEE International Conference on Computer Communications (INFOCOM’2020) Poster*. 6-9 July, 2020, Toronto, Canada. (Virtual Conference). [[PDF]](https://ieeexplore.ieee.org/abstract/document/9162750/)
 
 ### 2019:
-  [2]. **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. *Telecommunications Science*, 2019, 35(10): 31-42.(in Chinese). **Journal Top5 Popular Article** [[PDF]](http://www.infocomm-journal.com/dxkx/CN/Y2019/V35/I10/31)
+  [2]. **Peizhuang Cong**, Ye Tian, Xiangyang Gong, Xirong Que, Wendong Wang. A survey of key protocol and application scenario of time-sensitive network[J]. *Telecommunications Science*, 2019, 35(10): 31-42.(in Chinese). **Top5 Popular Document** [[PDF]](http://www.infocomm-journal.com/dxkx/CN/Y2019/V35/I10/31)
 
   [1]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. *2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop*. 9-13 December, Waikoloa, HI, USA. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9024562/)
 
