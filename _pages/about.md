@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-  I received my PhD from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/index.htm), co-advised by [Prof. Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and [Prof. Yuchao Zhang](http://yuchaozhang.weebly.com/). 
-- *Research Interests:* next generation network architecture, network protocol, Net-AI, etc.
-- *Email:* congpeizhuang AT bupt.edu.cn
-- *Address:* BUPT, No.10 Xitucheng Road, Haidian District, Beijing, China.
+  I am a postdoctoral researcher in the School of Computer Science, Peking University (with Prof. [Tong Yang](https://yangtonghome.github.io/)). I received my Ph.D. from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/index.htm), co-advised by [Prof. Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and [Prof. Yuchao Zhang](http://yuchaozhang.weebly.com/). 
+- *Research Interests:* network measurement, LLM, next generation network architecture, network protocol, etc.
+- *Email:* congpeizhuang AT bupt.cn
+- *Address:* Peking University, 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 
 ## News: 
