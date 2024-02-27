@@ -19,7 +19,7 @@ redirect_from:
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083) (2022).
 
 ## Work Experiences:
-  - School of Computer Science, Peking University, Postdoc. Jan. 2024 - Now.
+  - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
   - Network Architecture Research Center, BUPT, Assistant Researcher. Jul. 2023 - Dec. 2023.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul. 2019 - Sep. 2019.
 
