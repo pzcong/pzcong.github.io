@@ -15,7 +15,7 @@ redirect_from:
 ## Acdaemic Services:
   - **Journal Reviewer:** 
       - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) (2024).
-      - [Applied Intelligence](https://www.springer.com/journal/10489/) (2022).
+      - [Applied Intelligence](https://www.springer.com/journal/10489/) (2022, 2024).
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083) (2022).
 
 ## Work Experiences:
