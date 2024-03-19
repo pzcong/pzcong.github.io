@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Peizhuang Cong"
 title_separator          : "-"
 name                     : &name "Peizhuang Cong"
 description              : &description "Postdoc@PKU"
