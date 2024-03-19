@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Peizhuang Cong"
 title_separator          : "-"
 name                     : &name "Peizhuang Cong"
-description              : &description "" # "PhD Candidate at BUPT"
+description              : &description "Postdoc@PKU"
 url                      : https://pzcong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "congpeizhuang/pzcong.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peizhuang Cong"
   avatar           : "pzc_profile.jpg"
-  bio              : "" #"RA in BUPT"
+  bio              : "Postdoc at PKU"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_yUklecAAAAJ&hl"
-  email            : "congpeizhuang@bupt.edu.cn"
+  email            : "congpeizhuang@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
