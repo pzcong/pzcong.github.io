@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [04/2024]**(Paper)**: *ROND* was accepted by ***CoNEXT*** (CCF B). 
+- [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT*** (CCF B). 
 - [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ*** (JCR Q1). 
 - [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
