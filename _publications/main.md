@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications:
 ### 2024:
-  [15]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang. ROND: Rethinking Overlay Network Design with Underlay Network Awareness[C]. *The 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT'2024)*.
+  [15]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang. ROND: Rethinking Overlay Network Design with Underlay Network Awareness[C]. *The 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2024)*.
 ### 2023:
   [14]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT[J]. *IEEE Internet of Things Journal (IoTJ)*, 2023. [[PDF]](https://pzcong.github.io/)
   
