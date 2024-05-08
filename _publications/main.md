@@ -14,7 +14,7 @@ redirect_from:
 ### 2023:
   [14]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. [DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT](https://ieeexplore.ieee.org/abstract/document/10176287)[J]. *IEEE Internet of Things Journal (IoTJ)*, 2023.
   
-  [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. [Grandet: cost-aware traffic scheduling without prior knowledge in SD-WAN](https://ieeexplore.ieee.org/abstract/document/10188706)[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. **<font color=#ff0000>Best Paper Candidate</font>**(top 7 out of 264 submissions)
+  [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. [Grandet: cost-aware traffic scheduling without prior knowledge in SD-WAN](https://ieeexplore.ieee.org/abstract/document/10188706)[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. <font color=#ff0000>**Best Paper Candidate**</font> (top 7 out of 264 submissions)
 
   [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. [SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning](https://ieeexplore.ieee.org/abstract/document/10061640/)[J]. *IEEE Network*, 2023.
 
