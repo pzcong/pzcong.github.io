@@ -46,7 +46,7 @@ redirect_from:
   [1]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. DND: The Controlability of Dynamic Temporal Network in Smart Transportations[C]. *2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop*. 9-13 December, Waikoloa, HI, USA. [[PDF]](https://ieeexplore.ieee.org/abstract/document/9024562/)
 
 ## Preprint:
-  [1]. **Peizhuang Cong**, Aomufei Yuan, Shimao Chen, Yuxuan Tian, Bowen Ye, Tong Yang. Prediction Is All MoE Needs: Expert Load Distribution Goes from Fluctuating to Stabilizing. Arxiv, 2024.
+  [1]. **Peizhuang Cong**, Aomufei Yuan, Shimao Chen, Yuxuan Tian, Bowen Ye, Tong Yang. Prediction Is All MoE Needs: Expert Load Distribution Goes from Fluctuating to Stabilizing. arXiv preprint arXiv:2404.16914, 2024.
 
 ## Patents:
   [1]. 张宇超; 丛培壮; 王文东; 阙喜戎. 一种智能交通场景下的动态网络可控性方法, 已授权.
