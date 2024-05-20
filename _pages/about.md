@@ -15,21 +15,21 @@ redirect_from:
 
 
 ## News: 
-- [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24*** (CCF B). 
-- [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ*** (JCR Q1). 
+- [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
+- [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ***. 
 - [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of Beijing**.
 - [04/2023]**(Award)**: I was awarded **Outstanding Graduate of BUPT**.
-- [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23*** (CCF B).
-- [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network*** (JCR Q1).
+- [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23***.
+- [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network***.
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
-- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A, JCR Q1).  
-- [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22*** (CCF B).
-- [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21*** (CCF B).
+- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A).  
+- [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22***.
+- [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21***.
 - [04/2021]**(Project)**: *FLR* was approved by **BUPT Excellent Ph.D. Student Foundation**.
-- [03/2021]**(Paper)**: *RLR-M* was accepted by ***CN*** (CCF B).
-- [02/2021]**(Paper)**: *DND* was accepted by ***TNSM*** (JCR Q2).
-- [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21*** (CCF C).
+- [03/2021]**(Paper)**: *RLR-M* was accepted by ***CN***.
+- [02/2021]**(Paper)**: *DND* was accepted by ***TNSM***.
+- [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
 
 
 ## Selected Publications: ([Full Publications](/publications/))
