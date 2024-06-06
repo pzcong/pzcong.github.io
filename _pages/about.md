@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-  I am a postdoctoral researcher at the School of Computer Science, Peking University (collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/)). I received my Ph.D. from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/index.htm), co-advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
+  I am a Postdoctoral Researcher at the School of Computer Science, Peking University (collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/)). I received my Ph.D. from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/index.htm), co-advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/). 
 - *Research Interests:* network measurement, LLM, next generation network architecture, network protocol, etc.
 - *Email:* congpeizhuang AT pku.edu.cn
 - *Address:* Peking University, No. 5 Yiheyuan Road, Haidian District, Beijing, China.
 
 
 ## News: 
+- [06/2024]**(Award)**: We won the Huawei Spark Award on *MoE's Expert Load Prediction* (Top Prize).
 - [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
 - [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ***. 
 - [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
@@ -69,4 +70,4 @@ redirect_from:
 
 <p align='right'><a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a></p>
 
-<p align='right'><i>Last updated: July 2024</i></p>
+<p align='right'><i>Last updated: June 2024</i></p>
