@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [06/2024]**(Award)**: We were awarded the ***Huawei Spark*** on *MoE Expert Load Prediction* (Top Prize).
+- [06/2024]**(Award)**: We won ***Huawei Spark*** on *MoE Expert Load Prediction* (Top Prize).
 - [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
 - [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ***. 
 - [06/2023]**(Degree)**: I defended my PhD thesis👨🏻‍🎓.
