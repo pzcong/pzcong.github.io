@@ -14,11 +14,11 @@ redirect_from:
 
 ## Acdaemic Services:
   - **Journal Reviewer:** 
-      - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) (2024).
-      - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) (2024).
-      - [The Journal of Supercomputing](https://link.springer.com/journal/11227/volumes-and-issues?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT) (2024).
-      - [Applied Intelligence](https://www.springer.com/journal/10489/) (2021, 2022, 2024).
-      - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083) (2022).
+      - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) 
+      - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) 
+      - [The Journal of Supercomputing](https://link.springer.com/journal/11227/volumes-and-issues?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)
+      - [Applied Intelligence](https://www.springer.com/journal/10489/)
+      - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
 
 ## Work Experiences:
   - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
