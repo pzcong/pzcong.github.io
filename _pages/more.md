@@ -20,7 +20,7 @@ redirect_from:
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
   - **Conference Technical Program Committee**
-      - [International Conference on Web Services](http://www.icws.org/2024/)(ICWS) TPC(2024)
+      - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC(2024)
 
 ## Work Experiences:
   - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
