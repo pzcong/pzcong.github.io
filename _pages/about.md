@@ -58,10 +58,6 @@ redirect_from:
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ning Zhang.  
   IEEE Transactions on Network and Service Management (TNSM), 2021 (JCR Q2).
 
-- **[IWQoS]** AIR: An AI-based TCAM Entry Replacement Scheme for Routers.  
-  Yuchao Zhang, **Peizhuang Cong**, Bin Liu, Wendong Wang, Ke Xu.  
-  IEEE/ACM International Symposium on Quality Service (IWQoS), 2021 (CCF B).
-
 
 <p align='right'><a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a></p>
 
