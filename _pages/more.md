@@ -14,7 +14,7 @@ redirect_from:
 
 ## Acdaemic Services:
   - **Reviewer:**
-      - The Web Conference(WWW)'2024
+      - [The Web Conference (WWW)'2025](https://www2025.thewebconf.org/)
       - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) 
       - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) 
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227/volumes-and-issues?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)
