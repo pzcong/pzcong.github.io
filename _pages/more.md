@@ -20,6 +20,7 @@ redirect_from:
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227/volumes-and-issues?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=CONR_JRNLS_DEC1_CN_CNPL_00340_HPAUT)
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
+      - [Scientific Reports](https://www.nature.com/srep/)
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC(2024)
 
