@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## News: 
+- [01/2025]**(Paper)**: *BATON* was accepted by ***TheWebConference(WWW)'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
 - [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
 - [07/2023]**(Paper)**: *M-DIT* was accepted by ***IoTJ***. 
