@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## Publications:
-### 2024:
+### 2025:
+  [16]. **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang. [BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching ](https://arxiv.org/abs/2410.18701). *The Web Conference (WWW 2025)*.
   [15]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang. [ROND: Rethinking Overlay Network Design with Underlay Network Awareness](https://pzcong.github.io/publication/)[C]. *The 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2024)*.
 ### 2023:
   [14]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. [DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT](https://ieeexplore.ieee.org/abstract/document/10176287)[J]. *IEEE Internet of Things Journal (IoTJ)*, 2023.
@@ -46,7 +47,6 @@ redirect_from:
   [1]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. [DND: The Controlability of Dynamic Temporal Network in Smart Transportations](https://ieeexplore.ieee.org/abstract/document/9024562/)[C]. *2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop*, 2019.
 
 ## Preprint:
-  [3]. **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang. [BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching ](https://arxiv.org/abs/2410.18701). Preprint, 2024.
   
   [2]. Shimao Chen, Zirui Liu, Zhiying Wu, Ce Zheng, **Peizhuang Cong**, Zihan Jiang, Yuhan Wu, Lei Su, Tong Yang. [INT-FlashAttention: Enabling Flash Attention for INT8 Quantization](https://arxiv.org/abs/2409.16997). Preprint, 2024.
   
