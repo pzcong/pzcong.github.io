@@ -34,22 +34,6 @@ redirect_from:
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
 
 
-<style>
-   .scrollable {
-        height: 200px; /* 设置滑动区域的高度 */
-        overflow-y: scroll; /* 显示垂直滚动条 */
-        border: 1px solid #ccc; /* 可选，添加边框 */
-    }
-</style>
-
-<div class="scrollable">
-这里是需要添加滑动条的内容，可以是Markdown格式的文本，也可以是其他HTML元素。
-比如有很多新闻内容：
-- [01/2025](Paper): BATON was accepted by TheWebConf(WWW)’25.
-- [06/2024](Award) : We ware awarded Huawei Spark: MoE Expert Load Prediction.
-</div>
-
-
 ## Selected Publications: ([Full Publications](/publications/))
 - **[WWW]** BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching. 
   **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang.
