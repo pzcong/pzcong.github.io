@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## News: 
-- [05/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
+- [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
 - [01/2025]**(Paper)**: *BATON* was accepted by ***WWW'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
 - [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
@@ -71,4 +71,4 @@ redirect_from:
 
 <p align='right'><a href="https://clustrmaps.com/site/1boab" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=V70tYWiC2S5od54kyB_gryHlu06cB7tlRQksWmTnQzk&cl=ffffff"></a></p>
 
-<p align='right'><i>Last updated: May 2025</i></p>
+<p align='right'><i>Last updated: Apr. 2025</i></p>
