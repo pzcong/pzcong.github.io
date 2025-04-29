@@ -11,6 +11,7 @@ redirect_from:
 ## Publications:
 ### 2025:
   [17]. **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang. [BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching](https://arxiv.org/abs/2410.18701)[C]. *The Web Conference (WWW 2025)*.
+  
   [16]. **Peizhuang Cong**,Tong Yang, Yuchao Zhang, Wendong Wang, Ke Xu. [MICO: Efficient Query Scheduling for Multi-Cloud Deployed LLM Inference Service.](https://arxiv.org/abs/2410.18701)[J]. *SCIENCE CHINA Information Sciences (SCIS)*, 2025.
 ### 2024:
   [15]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang. [ROND: Rethinking Overlay Network Design with Underlay Network Awareness](https://pzcong.github.io/publication/)[C]. *The 20th International Conference on emerging Networking EXperiments and Technologies (CoNEXT 2024)*.
