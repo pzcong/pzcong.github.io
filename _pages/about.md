@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## News: 
+- [05/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
 - [01/2025]**(Paper)**: *BATON* was accepted by ***WWW'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
 - [04/2024]**(Paper)**: Our paper *ROND* was accepted by ***CoNEXT'24***. 
@@ -38,6 +39,10 @@ redirect_from:
 - **[WWW]** BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching.  
   **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang.  
   The Web Conference (WWW), 2025 (CCF A).
+
+- **[SCIS]** MICO: Efficient Query Scheduling for Multi-Cloud Deployed LLM Inference Service.  
+  **Peizhuang Cong**, Tong Yang, Yuchao Zhang, Wendong Wang, Ke Xu.  
+  SCIENCE CHINA Information Sciences (SCIS), 2025 (CCF A).
 
 - **[JSAC]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
