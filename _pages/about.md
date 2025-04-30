@@ -42,7 +42,7 @@ redirect_from:
 
 - **[SCIS]** MICO: Efficient Query Scheduling for Multi-Cloud Deployed LLM Inference Service.  
   **Peizhuang Cong**, Tong Yang, Yuchao Zhang, Wendong Wang, Ke Xu.  
-  SCIENCE CHINA Information Sciences (SCIS), 2025 (CCF A).
+  SCIENCE CHINA Information Sciences (SCIS), 2025 (CCF A, JCR Q1).
 
 - **[JSAC]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
