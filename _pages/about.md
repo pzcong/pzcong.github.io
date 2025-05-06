@@ -26,13 +26,15 @@ redirect_from:
 - [03/2023]**(Paper)**: Our paper *Grandet* was accepted by ***IWQoS'23***.
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network***.
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
-- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A).  
+- [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC*** (CCF A).
+<!-- 
 - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22***.
 - [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21***.
 - [04/2021]**(Project)**: *FLR* was approved by **BUPT Excellent Ph.D. Student Foundation**.
 - [03/2021]**(Paper)**: *RLR-M* was accepted by ***CN***.
 - [02/2021]**(Paper)**: *DND* was accepted by ***TNSM***.
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
+-->
 
 
 ## Selected Publications: ([Full Publications](/publications/))
