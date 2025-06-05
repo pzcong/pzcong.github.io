@@ -16,7 +16,8 @@ redirect_from:
   - **Reviewer:**
       - [The Web Conference (WWW)'2025](https://www2025.thewebconf.org/)
       - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) 
-      - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network) 
+      - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network)
+      - [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
