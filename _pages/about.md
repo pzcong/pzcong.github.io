@@ -41,7 +41,7 @@ redirect_from:
 ## Selected Publications: ([Full Publications](/publications/))
 - **[WWW]** BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching.  
   **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang.  
-  The Web Conference (WWW), 2025 (CCF A).`WWW`
+  The Web Conference (WWW), 2025 (CCF A).
 
 - **[SCIS]** MICO: Efficient Query Scheduling for Multi-Cloud Deployed LLM Inference Service.  
   **Peizhuang Cong**, Tong Yang, Yuchao Zhang, Wendong Wang, Ke Xu.  
