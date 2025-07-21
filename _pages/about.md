@@ -15,6 +15,9 @@ redirect_from:
 
 
 ## News: 
+<!--
+- [07/2025]**(Paper)**: *I2BGP* was accepted by ***ToN***.
+-->
 - [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
 - [01/2025]**(Paper)**: *BATON* was accepted by ***WWW'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
@@ -39,6 +42,11 @@ redirect_from:
 
 
 ## Selected Publications: ([Full Publications](/publications/))
+<!--
+- **[ToN]** I2BGP: A Privacy-Preserving Intra-AS State-Assisted Inter-AS Routing Scheme.  
+  **Peizhuang Cong**, Yuchao Zhang, Jun Wang, Wendong Wang, Tong Yang, Dan Li, Ke Xu
+  IEEE/ACM Transactions on Networking (ToN), 2025 (CCF A).
+-->
 - **[WWW]** BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching.  
   **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang.  
   The Web Conference (WWW), 2025 (CCF A).
