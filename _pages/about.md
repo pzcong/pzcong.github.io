@@ -39,10 +39,10 @@ redirect_from:
 - [02/2021]**(Paper)**: *DND* was accepted by ***TNSM***.
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
 -->
+<!-- 
 <div>
   <ul>
     <li>[04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***.</li>
-    [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
   </ul>
 
   <details>
@@ -52,7 +52,7 @@ redirect_from:
     </ul>
   </details>
 </div>
-
+-->
 
 
 ## Selected Publications: ([Full Publications](/publications/))
