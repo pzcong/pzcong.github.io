@@ -41,7 +41,8 @@ redirect_from:
 -->
 <div>
   <ul>
-    <li>Test.</li>
+    <li>[04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***.</li>
+    [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
   </ul>
 
   <details>
