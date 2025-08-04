@@ -54,7 +54,7 @@ redirect_from:
     <ul>
       <li>[03/2023]<b>(Paper)</b>: Our paper <i>Grandet</i> was accepted by <b><i>IWQoS'23</i></b>.</li>
       <li>[02/2023]<b>(Paper)</b>: <i>SOHO-FL</i> was accepted by <b><i>IEEE Network</i></b>.</li>
-      <li>[10/2022]<b>(Award)</b>: I was awarded the <b>National Scholarship for Doctoral Students</b>. 
+      <li>[10/2022]<b>(Award)</b>: I was awarded the <b>National Scholarship for Doctoral Students</b>.</li>
       <li>[05/2022]<b>(Paper)</b>: <i>A&B</i> was accepted by <b><i>JSAC</i></b>.</li>
       <li>[04/2022]<b>(Paper)</b>: <i>DIT</i> was accepted by <b><i>IWQoS'22</i></b>.</li>
       <li>[04/2021]<b>(Paper)</b>: <i>AIR</i> was accepted by <b><i>IWQoS'21</i></b>.</li>
