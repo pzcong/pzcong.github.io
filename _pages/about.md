@@ -17,7 +17,6 @@ redirect_from:
 ## News: 
 <!--
 - [07/2025]**(Paper)**: *I2BGP* was accepted by ***ToN***.
--->
 - [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
 - [01/2025]**(Paper)**: *BATON* was accepted by ***WWW'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
@@ -30,8 +29,6 @@ redirect_from:
 - [02/2023]**(Paper)**: *SOHO-FL* was accepted by ***IEEE Network***.
 - [10/2022]**(Award)**: I was awarded the **National Scholarship for Doctoral Students**. 
 - [05/2022]**(Paper)**: *A&B* was accepted by ***JSAC***.
-
-<!-- 
 - [04/2022]**(Paper)**: *DIT* was accepted by ***IWQoS'22***.
 - [04/2021]**(Paper)**: *AIR* was accepted by ***IWQoS'21***.
 - [04/2021]**(Project)**: *FLR* was approved by **BUPT Excellent Ph.D. Student Foundation**.
@@ -39,20 +36,35 @@ redirect_from:
 - [02/2021]**(Paper)**: *DND* was accepted by ***TNSM***.
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
 -->
-
 <div>
   <ul>
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
+    <li>[07/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
+    <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
+    <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
+    <li>[06/2024]<b>(Award)</b>: We ware awarded <b><i>Huawei Spark</i></b>: <i>MoE Expert Load Prediction</i>.</li>
+    <li>[04/2024]<b>(Paper)</b>: Our paper <i>ROND</i> was accepted by <b><i>CoNEXT'24</i></b>.</li>
+    <li>[07/2023]<b>(Paper)</b>: <i>M-DIT</i> was accepted by <b><i>IoTJ</i></b>.</li>
+    <li>[06/2023]<b>(Degree)</b>: I defended my PhD thesis👨🏻‍🎓.</li>
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of Beijing</b>.
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of BUPT</b>.
   </ul>
-
   <details>
     <summary><strong>More News</strong></summary>
     <ul>
-      <li>[2025/03] Old</li>
+      <li>[03/2023]<b>(Paper)</b>: Our paper <i>Grandet</i> was accepted by <b><i>IWQoS'23</i></b>.</li>
+      <li>[02/2023]<b>(Paper)</b>: <i>SOHO-FL</i> was accepted by <b><i>IEEE Network</i></b>.</li>
+      <li>[10/2022]<b>(Award)</b>: I was awarded the <b>National Scholarship for Doctoral Students</b>. 
+      <li>[05/2022]<b>(Paper)</b>: <i>A&B</i> was accepted by <b><i>JSAC</i></b>.</li>
+      <li>[04/2022]<b>(Paper)</b>: <i>DIT</i> was accepted by <b><i>IWQoS'22</i></b>.</li>
+      <li>[04/2021]<b>(Paper)</b>: <i>AIR</i> was accepted by <b><i>IWQoS'21</i></b>.</li>
+      <li>[04/2021]<b>(Project)</b>: <i>FLR</i> was approved by <b><i>BUPT Excellent Ph.D. Student Foundation</i></b>.</li>
+      <li>[03/2021]<b>(Paper)</b>: <i>RLR-M</i> was accepted by <b><i>CN</i></b>.</li>
+      <li>[02/2021]<b>(Paper)</b>: <i>DND</i> was accepted by <b><i>TNSM</i></b>.</li>
+      <li>[01/2021]<b>(Paper)</b>: <i>RLR</i> was accepted by <b><i>ICC'21</i></b>.</li>
     </ul>
   </details>
 </div>
-
 
 ## Selected Publications: ([Full Publications](/publications/))
 <!--
