@@ -45,8 +45,8 @@ redirect_from:
     <li>[04/2024]<b>(Paper)</b>: Our paper <i>ROND</i> was accepted by <b><i>CoNEXT'24</i></b>.</li>
     <li>[07/2023]<b>(Paper)</b>: <i>M-DIT</i> was accepted by <b><i>IoTJ</i></b>.</li>
     <li>[06/2023]<b>(Degree)</b>: I defended my PhD thesis👨🏻‍🎓.</li>
-    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of Beijing</b>.
-    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of BUPT</b>.
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of Beijing</b>.</li>
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of BUPT</b>.</li>
   </ul>
   <details>
     <summary><strong>More News</strong></summary>
