@@ -38,8 +38,7 @@ redirect_from:
 -->
 <div>
   <ul>
-    <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
-    <li>[07/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
+    <!--<li>[07/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>-->
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
     <li>[06/2024]<b>(Award)</b>: We ware awarded <b><i>Huawei Spark</i></b>: <i>MoE Expert Load Prediction</i>.</li>
