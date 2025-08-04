@@ -42,7 +42,7 @@ redirect_from:
 <!-- 
 <div>
   <ul>
-    <li>[04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***.</li>
+    <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
   </ul>
 
   <details>
