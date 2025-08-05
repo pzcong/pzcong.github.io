@@ -46,7 +46,7 @@ redirect_from:
     <li>[04/2024]<b>(Paper)</b>: Our paper <i>ROND</i> was accepted by <b><i>CoNEXT'24</i></b>.</li>
   </ul>
   <details>
-    <summary><strong>More News</strong></summary>
+    <summary>More</summary>
     <ul>
       <li>[07/2023]<b>(Paper)</b>: <i>M-DIT</i> was accepted by <b><i>IoTJ</i></b>.</li>
       <li>[06/2023]<b>(Degree)</b>: I defended my PhD thesis👨🏻‍🎓.</li>
