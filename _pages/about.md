@@ -36,7 +36,6 @@ redirect_from:
 - [02/2021]**(Paper)**: *DND* was accepted by ***TNSM***.
 - [01/2021]**(Paper)**: *RLR* was accepted by ***ICC'21***.
 -->
-
 <div>
   <ul>
     <!--<li>[07/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>-->
@@ -44,16 +43,16 @@ redirect_from:
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
     <li>[06/2024]<b>(Award)</b>: We ware awarded <b><i>Huawei Spark</i></b>: <i>MoE Expert Load Prediction</i>.</li>
     <li>[04/2024]<b>(Paper)</b>: Our paper <i>ROND</i> was accepted by <b><i>CoNEXT'24</i></b>.</li>
+    <li>[07/2023]<b>(Paper)</b>: <i>M-DIT</i> was accepted by <b><i>IoTJ</i></b>.</li>
+    <li>[06/2023]<b>(Degree)</b>: I defended my PhD thesis👨🏻‍🎓.</li>
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of Beijing</b>.</li>
+    <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of BUPT</b>.</li>
+    <li>[03/2023]<b>(Paper)</b>: Our paper <i>Grandet</i> was accepted by <b><i>IWQoS'23</i></b>.</li>
+    <li>[02/2023]<b>(Paper)</b>: <i>SOHO-FL</i> was accepted by <b><i>IEEE Network</i></b>.</li>
   </ul>
   <details>
     <summary>More</summary>
     <ul>
-      <li>[07/2023]<b>(Paper)</b>: <i>M-DIT</i> was accepted by <b><i>IoTJ</i></b>.</li>
-      <li>[06/2023]<b>(Degree)</b>: I defended my PhD thesis👨🏻‍🎓.</li>
-      <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of Beijing</b>.</li>
-      <li>[04/2023]<b>(Award)</b>: I was awarded <b>Outstanding Graduate of BUPT</b>.</li>
-      <li>[03/2023]<b>(Paper)</b>: Our paper <i>Grandet</i> was accepted by <b><i>IWQoS'23</i></b>.</li>
-      <li>[02/2023]<b>(Paper)</b>: <i>SOHO-FL</i> was accepted by <b><i>IEEE Network</i></b>.</li>
       <li>[10/2022]<b>(Award)</b>: I was awarded the <b>National Scholarship for Doctoral Students</b>.</li>
       <li>[05/2022]<b>(Paper)</b>: <i>A&B</i> was accepted by <b><i>JSAC</i></b>.</li>
       <li>[04/2022]<b>(Paper)</b>: <i>DIT</i> was accepted by <b><i>IWQoS'22</i></b>.</li>
