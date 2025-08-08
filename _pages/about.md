@@ -51,7 +51,7 @@ redirect_from:
     <li>[02/2023]<b>(Paper)</b>: <i>SOHO-FL</i> was accepted by <b><i>IEEE Network</i></b>.</li>
   </ul>
   <details>
-    <summary></summary>
+    <summary>More</summary>
     <ul>
       <li>[10/2022]<b>(Award)</b>: I was awarded the <b>National Scholarship for Doctoral Students</b>.</li>
       <li>[05/2022]<b>(Paper)</b>: <i>A&B</i> was accepted by <b><i>JSAC</i></b>.</li>
