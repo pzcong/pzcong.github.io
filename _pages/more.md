@@ -14,7 +14,7 @@ redirect_from:
 
 ## Acdaemic Services:
   - **Reviewer:**
-      - [The Web Conference (WWW)'2025](https://www2025.thewebconf.org/)
+      - [The Web Conference (WWW) 2025](https://www2025.thewebconf.org/)
       - [IEEE/ACM Transactions on Networking](https://www.computer.org/csdl/journal/nt) 
       - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network)
       - [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
@@ -25,7 +25,7 @@ redirect_from:
       - [Scientific Reports](https://www.nature.com/srep/)
       - [Wireless Networks](https://www.springer.com/11276)
   - **Conference Technical Program Committee**
-      - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC(2024, 2025)
+      - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
 
 ## Work Experiences:
   - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
