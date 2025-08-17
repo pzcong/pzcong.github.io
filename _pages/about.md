@@ -38,7 +38,7 @@ redirect_from:
 -->
 <div>
   <ul>
-    <!--<li>[07/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>-->
+    <li>[08/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
     <li>[06/2024]<b>(Award)</b>: We ware awarded <b><i>Huawei Spark</i></b>: <i>MoE Expert Load Prediction</i>.</li>
@@ -68,11 +68,11 @@ redirect_from:
 
 
 ## Selected Publications: ([Full Publications](/publications/))
-<!--
+
 - **[ToN]** I2BGP: A Privacy-Preserving Intra-AS State-Assisted Inter-AS Routing Scheme.  
   **Peizhuang Cong**, Yuchao Zhang, Jun Wang, Wendong Wang, Tong Yang, Dan Li, Ke Xu
   IEEE/ACM Transactions on Networking (ToN), 2025 (CCF A).
--->
+
 - **[WWW]** BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching.  
   **Peizhuang Cong**, Qizhi Chen, Haochen Zhao, Tong Yang.  
   The Web Conference (WWW), 2025 (CCF A).
@@ -84,16 +84,16 @@ redirect_from:
 - **[JSAC]** A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers.  
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
   IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
-  
-- **[IoTJ]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
-  **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
-  IEEE Internet of Things Journal (IoTJ), 2023 (JCR Q1).
-  
+
 - **[NET-M]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
   IEEE Network, 2023 (JCR Q1).
 
-<!-- 
+<!--
+- **[IoTJ]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
+  **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
+  IEEE Internet of Things Journal (IoTJ), 2023 (JCR Q1).
+  
 - **[IWQoS]** Break the Blackbox! Desensitize Intra-domain Information for Inter-domain Routing.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Hao Ni, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
   IEEE/ACM International Symposium on Quality Service (IWQoS), 2022 (CCF B).
