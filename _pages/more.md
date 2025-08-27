@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Projects:
-  - *National Natural Science Foundation of China (Young Scientists C)* (Jan. 2026-Dec. 2028, PI)
+  - *National Natural Science Foundation of China (Young Scientists C)* (Jan. 2026 -- Dec. 2028, PI)
   
     Research on Key Technologies of Intelligent Routing for Computing and Network Convergence Scenarios.
-  - *BUPT Excellent Ph.D. Students Project* (Apr. 2021-Apr. 2023, PI)
+  - *BUPT Excellent Ph.D. Students Project* (Apr. 2021 -- Apr. 2023, PI)
 
     Research on Inter-domain Routing Optimizations.
 
@@ -34,8 +34,8 @@ redirect_from:
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
 
 ## Work Experiences:
-  - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 - Now.
-  - Network Architecture Research Center, BUPT, Assistant Researcher. Jul. 2023 - Dec. 2023.
+  - School of Computer Science, Peking University, Postdoc Researcher. Jan. 2024 -- Now.
+  - Network Architecture Research Center, BUPT, Assistant Researcher. Jul. 2023 -- Dec. 2023.
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul. 2019 - Sep. 2019.
 
 ## Teaching Experiences:
