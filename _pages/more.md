@@ -39,7 +39,7 @@ redirect_from:
   - 2012 Theory Lab, Huawei, Ph.D. Research Intern. Jul. 2019 - Sep. 2019.
 
 ## Teaching Experiences:
-  - Principles, Challenges, and Industrial Applications of Large Language Models, Computer Science Dept., PKU, 2024 Fall.
+  - Principles, Challenges, and Industrial Applications of LLMs, Computer Science Dept., PKU, 2024 Fall.
   - New Technologies in the Future Internet, Computer Science Dept., BUPT, 2020 Spring.
   
 ## Awards:
