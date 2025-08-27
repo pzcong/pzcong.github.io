@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Projects:
-  - *National Natural Science Foundation of China (Young Scientists Fund)*
+  - *National Natural Science Foundation of China (Young Scientists Fund)* (Jan. 2026-Dec. 2028, PI)
   
-    Intelligent Routing for Computing and Network Convergence Scenarios (Jan. 2026-Dec. 2028, PI).
-  - *BUPT Excellent Ph.D. Students Project*
+    Intelligent Routing for Computing and Network Convergence Scenarios.
+  - *BUPT Excellent Ph.D. Students Project* (Apr. 2021-Apr. 2023, PI)
 
-    Research on Inter-domain Routing Optimizations (Apr. 2021-Apr. 2023, PI).
+    Research on Inter-domain Routing Optimizations.
 
 
 ## Acdaemic Services:
