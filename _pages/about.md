@@ -16,7 +16,7 @@ redirect_from:
 
 ## News: 
 <!--
-- [07/2025]**(Paper)**: *I2BGP* was accepted by ***ToN***.
+- [08/2025]**(Paper)**: *I2BGP* was accepted by ***ToN***.
 - [04/2025]**(Paper)**: *MICO* was accepted by ***SCIS***. 
 - [01/2025]**(Paper)**: *BATON* was accepted by ***WWW'25***. 
 - [06/2024]**(Award)**: We ware awarded ***Huawei Spark***: *MoE Expert Load Prediction*.
@@ -38,6 +38,7 @@ redirect_from:
 -->
 <div>
   <ul>
+    <li>[08/2025]<b>(Funding)</b>: National Natural Science Foundation of China (Young Scientists C) was approved.</li>
     <li>[08/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
