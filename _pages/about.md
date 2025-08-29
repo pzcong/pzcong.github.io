@@ -38,7 +38,7 @@ redirect_from:
 -->
 <div>
   <ul>
-    <li>[08/2025]<b>(Project)</b>: <i><b>NSFC</b> (Young Scientists C)<i> was approved.</li>
+    <li>[08/2025]<b>(Project)</b>: Intelligent Routing was approved by <i><b>NSFC</b> (Young Scientists C)<i>.</li>
     <li>[08/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
