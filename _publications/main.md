@@ -11,7 +11,7 @@ redirect_from:
 ## Publications:
 ### 2026:
 
-  [19]. **Peizhuang Cong**, Feiyu Wang, Guoan Wang, Yanshu Wang, Ce Zheng, Tong Yang. [History, Present, and Future of Low-Bit Quantization for Large Language Models: A Case Study on Complex-domain Quantization]()[J]. *Journal of Computer Research and Development*, 2026. **<font color=blue>Highlight Article</font>**<br>丛培壮, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝. 大模型低比特量化的历史、现状和未来：以复域量化为例[J]. *计算机研究与发展*, 2026.**<font color=blue>亮点文章</font>**
+  [19]. **Peizhuang Cong**, Feiyu Wang, Guoan Wang, Yanshu Wang, Ce Zheng, Tong Yang. [History, Present, and Future of Low-Bit Quantization for Large Language Models: A Case Study on Complex-domain Quantization]()[J]. *Journal of Computer Research and Development*, 2026. **<font color=#3398ff>Highlight Article</font>**<br>丛培壮, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝. 大模型低比特量化的历史、现状和未来：以复域量化为例[J]. *计算机研究与发展*, 2026. **<font color=#3398ff>亮点文章</font>**
   
 ### 2025:
 
@@ -27,7 +27,7 @@ redirect_from:
 ### 2023:
   [14]. **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu. [DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT](https://ieeexplore.ieee.org/abstract/document/10176287)[J]. *IEEE Internet of Things Journal (IoTJ)*, 2023.
   
-  [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. [Grandet: Cost-aware Traffic Scheduling Without Prior Knowledge in SD-WAN](https://ieeexplore.ieee.org/abstract/document/10188706)[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. **<font color=blue>Best Paper Candidate</font>** (top 7 out of 264 submissions)
+  [13]. Yuchao Zhang, Huahai Zhang, **Peizhuang Cong**, Wendong Wang, Ke Xu. [Grandet: Cost-aware Traffic Scheduling Without Prior Knowledge in SD-WAN](https://ieeexplore.ieee.org/abstract/document/10188706)[C]. *IEEE/ACM 31th International Symposium on Quality of Service (IWQoS 2023)*. **<font color=blue>Best Paper Finalist</font>** (top 7 out of 264 submissions)
 
   [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. [SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning](https://ieeexplore.ieee.org/abstract/document/10061640/)[J]. *IEEE Network*, 2023.
 
