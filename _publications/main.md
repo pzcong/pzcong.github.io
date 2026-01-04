@@ -11,10 +11,9 @@ redirect_from:
 ## Publications:
 ### 2026:
 
-  [19]. **Peizhuang Cong**, Feiyu Wang, Guoan Wang, Yanshu Wang, Ce Zheng, Tong Yang. [History, Present, and Future of Low-Bit Quantization for Large Language Models: A Case Study on Complex-domain Quantization]()[J]. *Journal of Computer Research and Development*, 2026. Highlight Article
-  <!--
-  丛培壮, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝. 大模型低比特量化的历史、现状和未来：以复域量化为例[J]. *计算机研究与发展*, 2026.(亮点文章)
-  -->
+  [19]. **Peizhuang Cong**, Feiyu Wang, Guoan Wang, Yanshu Wang, Ce Zheng, Tong Yang. [History, Present, and Future of Low-Bit Quantization for Large Language Models: A Case Study on Complex-domain Quantization]()[J]. *Journal of Computer Research and Development*, 2026. **<font color=blue>Highlight Article</font>**
+  丛培壮, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝. 大模型低比特量化的历史、现状和未来：以复域量化为例[J]. *计算机研究与发展*, 2026.**<font color=blue>亮点文章</font>**
+  
 ### 2025:
 
   [18]. **Peizhuang Cong**, Yuchao Zhang, Jun Wang, Wendong Wang, Tong Yang, Dan Li, Ke Xu. [I2BGP: A Privacy-Preserving Intra-AS State-Assisted Inter-AS Routing Scheme]()[J]. *IEEE/ACM Transactions on Networking (ToN)*, 2025.
