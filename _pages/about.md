@@ -38,7 +38,8 @@ redirect_from:
 -->
 <div>
   <ul>
-    <li>[08/2025]<b>(Project)</b>: The project was approved by <i><b>NSFC (Youth C)</b></i>.</li>
+    <li>[01/2026]<b>(Paper)</b>: Our paper <i>Complex-domain Quantization for LLM</i> was accepted by <b><i>JCRD</i></b> and selected as Hightlight Article✨.</li>
+    <li>[08/2025]<b>(Project)</b>: The project was approved by <b><i>NSFC (Youth C)</i></b>.</li>
     <li>[08/2025]<b>(Paper)</b>: <i>I2BGP</i> was accepted by <b><i>ToN</i></b>.</li>
     <li>[04/2025]<b>(Paper)</b>: <i>MICO</i> was accepted by <b><i>SCIS</i></b>.</li>
     <li>[01/2025]<b>(Paper)</b>: <i>BATON</i> was accepted by <b><i>WWW'25</i></b>.</li>
