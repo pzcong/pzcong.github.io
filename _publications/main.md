@@ -11,6 +11,8 @@ redirect_from:
 ## Publications:
 ### 2026:
 
+  [20]. Mengyu Yang, Ye Tian, Lanshan Zhang, Deli Yu, **Peizhuang Cong**, Wendong Wang. [ISeaf: Semantic-aware Frame Selection for Long-form Video Understanding]()[C]. *IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP 2026)*.
+  
   [19]. **Peizhuang Cong**, Feiyu Wang, Guoan Wang, Yanshu Wang, Ce Zheng, Tong Yang. [History, Present, and Future of Low-Bit Quantization for Large Language Models: A Case Study on Complex-domain Quantization]()[J]. *Journal of Computer Research and Development*, 2026. **<font color=blue>Highlight Article</font>** (in Chinese)<!--<br>丛培壮, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝. [大模型低比特量化的历史、现状和未来：以复域量化为例]()[J]. *计算机研究与发展*, 2026. **<font color=blue>亮点文章</font>**-->
   
 ### 2025:
