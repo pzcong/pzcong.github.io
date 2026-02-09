@@ -30,6 +30,7 @@ redirect_from:
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
       - [Scientific Reports](https://www.nature.com/srep/)
       - [Wireless Networks](https://www.springer.com/11276)
+      - [Tsinghua Science and Technology] (https://www.sciopen.com/journal/1007-0214)
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
 
