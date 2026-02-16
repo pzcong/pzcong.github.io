@@ -11,7 +11,7 @@ redirect_from:
 ## Publications:
 ### 2026:
 
-  [21]. Mengyu Yang, Ye Tian, **Peizhuang Cong**, Lanshan Zhang, Gongli Xi, Song Wang, Wendong Wang. [SEC: Enabling MLLMs for Low-Latency IoT Video Analysis via Semantic-Aware Edge-Cloud Collaboration]()[J]. *IEEE Internet of Things Journal (IoTJ)*, 2026.
+  [21]. Mengyu Yang\*, Ye Tian\*, **Peizhuang Cong\***, Lanshan Zhang, Gongli Xi, Song Wang, Wendong Wang. [SEC: Enabling MLLMs for Low-Latency IoT Video Analysis via Semantic-Aware Edge-Cloud Collaboration]()[J]. *IEEE Internet of Things Journal (IoTJ)*, 2026.
   
   [20]. Mengyu Yang, Ye Tian, Lanshan Zhang, Deli Yu, **Peizhuang Cong**, Wendong Wang. [Seaf: Semantic-aware Frame Selection for Long-form Video Understanding]()[C]. *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)*.
   
