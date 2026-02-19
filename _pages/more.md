@@ -25,6 +25,7 @@ redirect_from:
       - [IEEE Network](https://www.comsoc.org/publications/magazines/ieee-network)
       - [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
       - [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
+      - [IEEE Internet of Things Journal]()
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
@@ -32,6 +33,7 @@ redirect_from:
       - [Wireless Networks](https://www.springer.com/11276)
       - [Tsinghua Science and Technology](https://www.sciopen.com/journal/1007-0214)
       - [Journal of King Saud University Computer and Information Sciences]()
+      - [ZET Communications]()
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
 
