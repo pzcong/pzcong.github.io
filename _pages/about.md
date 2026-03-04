@@ -89,8 +89,8 @@ redirect_from:
   IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
 
 - **[JCRD]** 大模型低比特量化的历史、现状和未来：以复域量化为例.  
-  **丛培壮**, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝.2026.  
-  计算机研究与发展, 2025 (CCF中文A, 亮点文章).
+  **丛培壮**, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝.  
+  计算机研究与发展, 2025 (中文CCF A, 亮点文章).
 
 <!--
 - **[NET-M]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
