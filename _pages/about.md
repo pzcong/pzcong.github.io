@@ -88,11 +88,15 @@ redirect_from:
   **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu.  
   IEEE Journal on Selected Areas in Communications (JSAC), 2022 (CCF A, JCR Q1).
 
+- **[JCRD]** 大模型低比特量化的历史、现状和未来：以复域量化为例.
+  **丛培壮**, 王飞宇, 王国安, 王砚舒, 郑策, 杨仝.2026.
+  计算机研究与发展, 2025 (CCF中文A, 亮点文章).
+
+<!--
 - **[NET-M]** SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning.  
   **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu.  
   IEEE Network, 2023 (JCR Q1).
 
-<!--
 - **[IoTJ]** DIT and Beyond: Inter-domain Routing with Intra-domain Awareness for IIoT.  
   **Peizhuang Cong**, Yuchao Zhang, Lei Wang, Wendong Wang, Xiangyang Gong, Tong Yang, Dan Li, Ke Xu.  
   IEEE Internet of Things Journal (IoTJ), 2023 (JCR Q1).
