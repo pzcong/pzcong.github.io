@@ -38,7 +38,7 @@ redirect_from:
   [12]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Ke Xu. [SOHO-FL: A Fast Reconvergent Intra-domain Routing Scheme Using Federated Learning](https://ieeexplore.ieee.org/abstract/document/10061640/)[J]. *IEEE Network*, 2023.
 
 ### 2022:
-  [11]. Yuchao Zhang^, Pengmiao Li^, **Peizhuang Cong**^, Huan Zou^, Xiaotian Wang^, Xiaofeng He^. [Web 3.0: Developments and Directions of the Future Internet Architecture?](https://link.springer.com/chapter/10.1007/978-3-031-23579-5_8)[C]. *International Conference on Web Services (ICWS 2022)* (^equal contribution).
+  [11]. Yuchao Zhang, Pengmiao Li\*, **Peizhuang Cong**\*, Huan Zou\*, Xiaotian Wang\*, Xiaofeng He\*. [Web 3.0: Developments and Directions of the Future Internet Architecture?](https://link.springer.com/chapter/10.1007/978-3-031-23579-5_8)[C]. *International Conference on Web Services (ICWS 2022)*.
 
   [10]. **Peizhuang Cong**, Yuchao Zhang, Bin Liu, Wendong Wang, Zehui Xiong, Ke Xu. [A&B: AI and Block-based TCAM Entries Replacement Scheme for Routers](https://ieeexplore.ieee.org/abstract/document/9832631/)[J]. *IEEE Journal on Selected Areas in Communications (JSAC)*, 2022.
 
