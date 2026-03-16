@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ## Publications:
+​("NAMEs" are the students I supervise/co-supervise, "*" indicates the co-first author, "#" indicates the corresponding author.)
 ### 2026:
 
   [21]. Mengyu Yang\*, Ye Tian\*, **Peizhuang Cong\***, Lanshan Zhang, Gongli Xi, Song Wang, Wendong Wang. [SEC: Enabling MLLMs for Low-Latency IoT Video Analysis via Semantic-Aware Edge-Cloud Collaboration]()[J]. *IEEE Internet of Things Journal (IoTJ)*, 2026.
