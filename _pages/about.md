@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  I am a associate professor in the School of Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), working with Prof. [Yidong Li](https://faculty.bjtu.edu.cn/8408/).
+  I am a associate professor (tenure-track) in the School of Computer Science and Technology at [Beijing Jiaotong University](https://www.bjtu.edu.cn/), working with Prof. [Yidong Li](https://faculty.bjtu.edu.cn/8408/).
   
   Previously, I was a Postdoctoral Researcher in the School of Computer Science at Peking University (collaborated with Prof. [Tong Yang](https://yangtonghome.github.io/)). I received my Ph.D. from [State Key Laboratory of Networking and Switching Technology](https://sklnst-en.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/index.htm) (co-advised by Prof. [Wendong Wang](https://teacher.bupt.edu.cn/wangwendong/) and Prof. [Yuchao Zhang](http://yuchaozhang.weebly.com/)). 
 - *Research Interests:* LLM, next generation network architecture, network protocol, *etc*.
