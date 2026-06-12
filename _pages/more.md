@@ -1,4 +1,4 @@
-<img width="432" height="13" alt="image" src="https://github.com/user-attachments/assets/88631faf-a2ee-4b50-b10e-0a32f761d6f9" />---
+---
 layout: archive
 title: "More about me"
 permalink: /more/
