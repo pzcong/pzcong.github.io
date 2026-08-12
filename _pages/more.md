@@ -29,6 +29,8 @@ redirect_from:
       - [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications)
       - [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
       - [IEEE Internet of Things Journal]()
+      - [IEEE Transactions on Network and Service Management]()
+      - [IEEE Transactions on Network Science and Engineering]()
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
