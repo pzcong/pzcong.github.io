@@ -12,6 +12,10 @@ redirect_from:
 ​("*" indicates equal contribution, "#" indicates the corresponding author.)
 ### 2026:
 
+  [23]. Mengyuan Fan\*, **Peizhuang Cong\***, Zixiao Huang\*, Si Xu, Tong Qiao, Yanghao Li, Jing Yang, Tong Yang, Quanlu Zhang, Yu Wang. [HAPMoE: Heterogeneity-Aware Automatic Parallelism Planning for Mixture-of-Experts Models Training].() The Findings of Empirical Methods in Natural Language Processing (EMNLP Findings) 2026. (Co-first Author)
+
+  [22]. Liya Zhu\*, **Peizhuang Cong\***, Jingzhe Ding\*, Aowei Ji, Wenya Wu, Jiani Hou, Chunjie Wu, Xiang Gao, Jingkai Liu, Zhou Huan, Xuelei Sun, Yang Yang, Jianpeng Jiao, Liang Hu, Xinjie Chen, Jiashuo Liu,  Tong Yang, Zaiyuan Wang, Ge Zhang, Wenhao Huang. [FPLQA: A Long-Tail Professional Forum-based Benchmark for LLM Evaluation](http://arxiv.org/abs/2511.06346). The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026.(Co-first Author)
+  
   [21]. Mengyu Yang\*, Ye Tian\*, **Peizhuang Cong\***, Lanshan Zhang, Gongli Xi, Song Wang, Wendong Wang. [SEC: Enabling MLLMs for Low-Latency IoT Video Analysis via Semantic-Aware Edge-Cloud Collaboration]()[J]. *IEEE Internet of Things Journal (IoTJ)*, 2026.
   
   [20]. Mengyu Yang, Ye Tian, Lanshan Zhang, Deli Yu, **Peizhuang Cong**, Wendong Wang. [Seaf: Semantic-aware Frame Selection for Long-form Video Understanding]()[C]. *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)*.
@@ -65,9 +69,7 @@ redirect_from:
   [1]. **Peizhuang Cong**, Yuchao Zhang, Wendong Wang, Bo Bai. [DND: The Controlability of Dynamic Temporal Network in Smart Transportations](https://ieeexplore.ieee.org/abstract/document/9024562/)[C]. *2019 IEEE Global Communications Conference (GlobeCom) AIoTCSCL Workshop*, 2019.
 
 ## Preprint:
-  [5]. Feiyu Wang, Xinyu Tan, Bokai Huang, Yihao Zhang, Guoan Wang, **Peizhuang Cong**, Tong Yang. [FAIRY2I: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±𝑖}](https://arxiv.org/pdf/2512.02901). Preprint, 2025.
-  
-  [4]. Liya Zhu\*, **Peizhuang Cong\***, Aowei Ji\*, Wenya Wu, Jiani Hou, Chunjie Wu, Xiang Gao, Jingkai Liu, Zhou Huan, Xuelei Sun, Yang Yang, Jianpeng Jiao, Liang Hu, Xinjie Chen, Jiashuo Liu, Jingzhe Ding, Tong Yang, Zaiyuan Wang, Ge Zhang, Wenhao Huang. [FPLQA: A Long-Tail Professional Forum-based Benchmark for LLM Evaluation](http://arxiv.org/abs/2511.06346). Preprint, 2025.(Co-first Author)
+  [4]. Feiyu Wang, Xinyu Tan, Bokai Huang, Yihao Zhang, Guoan Wang, **Peizhuang Cong**, Tong Yang. [FAIRY2I: Training Complex LLMs from Real LLMs with All Parameters in {±1, ±𝑖}](https://arxiv.org/pdf/2512.02901). Preprint, 2025.
   
   [3]. **Peizhuang Cong**, Wenpu Liu, Wenhan Yu, Haochen Zhao, Tong Yang. [Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning](https://arxiv.org/abs/2502.03884). Preprint, 2025.
   
