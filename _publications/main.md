@@ -12,9 +12,9 @@ redirect_from:
 ​("*" indicates equal contribution, "#" indicates the corresponding author.)
 ### 2026:
 
-  [23]. Mengyuan Fan\*, **Peizhuang Cong\***, Zixiao Huang\*, Si Xu, Tong Qiao, Yanghao Li, Jing Yang, Tong Yang, Quanlu Zhang, Yu Wang. [HAPMoE: Heterogeneity-Aware Automatic Parallelism Planning for Mixture-of-Experts Models Training](). The Findings of Empirical Methods in Natural Language Processing (EMNLP Findings) 2026. (Co-first Author)
-
-  [22]. Liya Zhu\*, **Peizhuang Cong\***, Jingzhe Ding\*, Aowei Ji, Wenya Wu, Jiani Hou, Chunjie Wu, Xiang Gao, Jingkai Liu, Zhou Huan, Xuelei Sun, Yang Yang, Jianpeng Jiao, Liang Hu, Xinjie Chen, Jiashuo Liu,  Tong Yang, Zaiyuan Wang, Ge Zhang, Wenhao Huang. [FPLQA: A Long-Tail Professional Forum-based Benchmark for LLM Evaluation](http://arxiv.org/abs/2511.06346). The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026.(Co-first Author)
+  [23]. Liya Zhu\*, **Peizhuang Cong\***, Jingzhe Ding\*, Aowei Ji, Wenya Wu, Jiani Hou, Chunjie Wu, Xiang Gao, Jingkai Liu, Zhou Huan, Xuelei Sun, Yang Yang, Jianpeng Jiao, Liang Hu, Xinjie Chen, Jiashuo Liu,  Tong Yang, Zaiyuan Wang, Ge Zhang, Wenhao Huang. [FPLQA: A Long-Tail Professional Forum-based Benchmark for LLM Evaluation](http://arxiv.org/abs/2511.06346). The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026.(Co-first Author)
+    
+  [22]. Mengyuan Fan\*, **Peizhuang Cong\***, Zixiao Huang\*, Si Xu, Tong Qiao, Yanghao Li, Jing Yang, Tong Yang, Quanlu Zhang, Yu Wang. [HAPMoE: Heterogeneity-Aware Automatic Parallelism Planning for Mixture-of-Experts Models Training](). The Findings of Empirical Methods in Natural Language Processing (EMNLP Findings) 2026. (Co-first Author)
   
   [21]. Mengyu Yang\*, Ye Tian\*, **Peizhuang Cong\***, Lanshan Zhang, Gongli Xi, Song Wang, Wendong Wang. [SEC: Enabling MLLMs for Low-Latency IoT Video Analysis via Semantic-Aware Edge-Cloud Collaboration]()[J]. *IEEE Internet of Things Journal (IoTJ)*, 2026.
   
