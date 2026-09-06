@@ -78,7 +78,7 @@ redirect_from:
   [1]. **Peizhuang Cong**, Aomufei Yuan, Shimao Chen, Yuxuan Tian, Bowen Ye, Tong Yang. [Prediction Is All MoE Needs: Expert Load Distribution Goes from Fluctuating to Stabilizing](https://arxiv.org/abs/2404.16914). Preprint, 2024.
 
 ## Patents:
-  [3]. 杨仝,王飞宇,**丛培壮**. 模型量化感知训练方法、装置、设备及存储介质, 已受理.
+  [3]. 杨仝, 王飞宇, **丛培壮**. 模型量化感知训练方法、装置、设备及存储介质, 已受理.
   
   [2]. **丛培壮**, 杨仝, 陈齐治. 一种提升大语言模型批量推理效率的处理方法, 已授权.
   
