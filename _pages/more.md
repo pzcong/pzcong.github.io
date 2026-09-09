@@ -41,6 +41,7 @@ redirect_from:
       - [ZET Communications]()
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
+      - [International Conference on MultiMedia Modeling (MMM)]() TPC (2027)
 
 ## Work Experiences:
   - School of Computer Science & Technology, Beijing Jiaotong University, Associate Professor. May 2026 -- Now.
