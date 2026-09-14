@@ -33,6 +33,7 @@ redirect_from:
       - [IEEE Transactions on Network Science and Engineering]()
       - [The Journal of Supercomputing](https://link.springer.com/journal/11227)
       - [Applied Intelligence](https://www.springer.com/journal/10489/)
+      - [Cluster Computing]()
       - [Peer-to-Peer Networking and Applications](https://www.springer.com/journal/12083)
       - [Scientific Reports](https://www.nature.com/srep/)
       - [Wireless Networks](https://www.springer.com/11276)
