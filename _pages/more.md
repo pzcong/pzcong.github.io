@@ -39,6 +39,8 @@ redirect_from:
       - [Wireless Networks](https://www.springer.com/11276)
       - [Tsinghua Science and Technology](https://www.sciopen.com/journal/1007-0214)
       - [Journal of King Saud University Computer and Information Sciences]()
+      - [Discover Computing]()
+      - [International Journal of Information Security]()
       - [ZET Communications]()
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
