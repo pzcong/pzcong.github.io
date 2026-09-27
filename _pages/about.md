@@ -40,6 +40,7 @@ redirect_from:
 -->
 <div>
   <ul>
+    <li>[08/2026]<b>(Paper)</b>: Our paper <i>RPFQ-ViT</i> was accepted by <b><i>NeurIPS'26</i></b>.</li>
     <li>[08/2026]<b>(Paper)</b>: Our paper <i>FPLQA</i> was accepted by <b><i>EMNLP'26</i></b>.</li>
     <li>[08/2026]<b>(Paper)</b>: Our paper <i>HAPMoE</i> was accepted by <b><i>EMNLP Findings'26</i></b>.</li>
     <li>[01/2026]<b>(Paper)</b>: Our paper <i>Seaf</i> was accepted by <b><i>ICASSP'26</i></b>.</li>
