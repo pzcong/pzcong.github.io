@@ -42,6 +42,7 @@ redirect_from:
       - [Discover Computing]()
       - [International Journal of Information Security]()
       - [ZET Communications]()
+      - [CCF Intelligent Transportation Systems Conference 2026]()
   - **Conference Technical Program Committee**
       - [International Conference on Web Services (ICWS)](http://www.icws.org/2024/) TPC (2024, 2025)
       - [International Conference on MultiMedia Modeling (MMM)]() TPC (2027)
